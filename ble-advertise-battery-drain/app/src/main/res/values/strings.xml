@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BLE Advertise</string>
+
+    <string name="notification_title">BLE Advertise</string>
+    <string name="notification_content">Advertising as a beacon.</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+</resources>
