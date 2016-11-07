@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0b271af1568b43a528bba26d19c5874bb91c34cd">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/org.altbeacon-android-beacon-library-2.9.1_03fa350ecb4f6e87a2c938db6e15536469d2bae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0f7a6c1a44982452e706cfadb9edd53e5d857700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0b271af1568b43a528bba26d19c5874bb91c34cd">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/org.altbeacon-android-beacon-library-2.9.1_f870729fe774e190e8e017fa02d71bfa7495809c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_e6037d83809b0756a9920b8ffdf04263c8de71d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0f247cfe6b855e810055f2e2de0789b035b6666c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_dddbd654c8a034a3721d79ba21c6d4508016fd10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_5197a4a0e96faa994564409e069470325d4c76a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_32719f54796648cfb64e3a776a2939df6a18d5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d4e067108c1f8aff88b623d7ace6daee180124bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_b14965445523019e740f4aca2f5bfa55a4b67b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_04b60bb649cac000718df9b408cc2e955b1fc467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e2a9eefdc111a4516d6cba12ae3b308e2fcada4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_544130dc461230191d3a2f94c6f9a68c2bab8e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_d75cb0ae05d307b078b9410351c8763d12b2eefc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_4f46ed89cba147ca2f48b181e2f8b2318058414d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0ecc5b47f7828808389331c0c771e6496f32e43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_115121ea4c5f952e750ca69059a2f0e348f7da1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_b432d3ac80eb67c6e0efbd11f0f64859cab7df63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e2907c7f19b288fabca53f81dfc991e54f6b9a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_007f2f04339f350e34825fee830b7fa923979a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_3ed8850bf13fbaf83b0e0f45d421fbeb5a56276b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_43d6dcbf5d5336b54fea5999e40e0ece8e6db293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_e97b699326a2001d80f051bcbc5056f918418737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_76bc9949e6a6c8666203a56dd7673dd00ceb3970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_82c4f9363d5b42893a4c4e5f298e2a6b76ffcd09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lakeel/git/lakeel-altla/samples-ble-android/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f34c16921cabfb94ff2bc1a08a1a4cee631fd80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_58feec010466dc5ef74c522d3bc3b68ac1e564a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e6cdc1562727794301e7a51fbaaeef8570936894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_55258950f1bf35663f9a1e66a5dad516d2457f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_ecea40ab29a689a10c602ad0977b198b79d9b4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lakeel/tmp/samples/ble-subscribe-battery-drain/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_697738bb12409f1366bbe4e9e9f0889b8f2738ed.jar" />
+    </item>
+
+</items>
