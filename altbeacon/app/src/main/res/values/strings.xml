@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">altbeacon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="button_transmit">Transmit</string>
+
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_ranging">Ranging</string>
+    <string name="nav_transmitting">Transmitting</string>
+</resources>
