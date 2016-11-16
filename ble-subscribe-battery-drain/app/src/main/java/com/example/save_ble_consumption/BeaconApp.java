@@ -19,7 +19,7 @@ public final class BeaconApp extends Application implements BootstrapNotifier {
     private static final long SCAN_PERIOD = 10000L;
 
     // 10 seconds
-    private static final long BETWEEN_SCAN_PERIOD = 10000L;
+    private static final long BETWEEN_SCAN_PERIOD = 30000L;
 
     private static final String I_BEACON_LAYOUT = "m:2-3=0215,i:4-19,i:20-21,i:22-23,p:24-24";
 
@@ -48,6 +48,7 @@ public final class BeaconApp extends Application implements BootstrapNotifier {
                 setBeaconLayout(BeaconParser.ALTBEACON_LAYOUT));
 
         // Set scan period.
+        beaconManager.setBackgroundMode(true);
         beaconManager.setBackgroundScanPeriod(SCAN_PERIOD);
         beaconManager.setBackgroundBetweenScanPeriod(BETWEEN_SCAN_PERIOD);
 
